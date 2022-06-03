@@ -1,2 +1,3 @@
-let colorNaranja = console.log('naranja');
-
+let naranja = 'Naranja';
+console.log(naranja);
+module.exports = naranja;
