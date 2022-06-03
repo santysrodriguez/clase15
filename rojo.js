@@ -1,1 +1,3 @@
-console.log("rojo");
+let colorRojo = console.log("rojo");
+
+ module.export = colorRojo

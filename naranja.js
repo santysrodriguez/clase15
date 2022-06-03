@@ -1,1 +1,2 @@
-console.log('naranja');
+let colorNaranja = console.log('naranja');
+
